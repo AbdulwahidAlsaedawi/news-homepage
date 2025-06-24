@@ -262,7 +262,7 @@ html[dir="rtl"] .nav_list ul {
 
  
   .nav_list {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: -100%;
     width: 70%;
