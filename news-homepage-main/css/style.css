@@ -134,7 +134,6 @@ html[dir="rtl"] .nav_list ul {
   background-color: var(--very-dark-blue);
 }
 
-
 .sidebar {
   background-color: var(--very-dark-blue);
   color: var(--off-white);
@@ -231,6 +230,7 @@ html[dir="rtl"] .nav_list ul {
 .attribution a {
   color: var(--soft-red);
 }
+
 
 @media (max-width: 768px) {
   body {
